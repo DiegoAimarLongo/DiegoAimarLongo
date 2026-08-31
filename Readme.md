@@ -15,9 +15,9 @@
 
 <p>Software Developer focused on Game Development and Backend Systems, with a strong foundation in programming, algorithms and software architecture.</p>
 
-<blockquote>
-  <p>🧠 <i>I prioritize <b>logic, algorithms</b> and understanding <b>how data moves through a system</b> over simply learning more technologies.</i></p>
-</blockquote>
+
+  <p align="center">🧠 <i>I prioritize <b>logic, algorithms</b> and understanding <b>how data moves through a system</b> over simply learning more technologies.</i></p>
+
 
 ---
 
