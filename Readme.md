@@ -11,7 +11,7 @@
 
 ---
 
-<h2>🎮 Game Developer | 🛠️ Backend Developer</h2>
+<h2 align="center">🎮 Game Developer | 🛠️ Backend Developer</h2>
 
 <p>Software Developer focused on Game Development and Backend Systems, with a strong foundation in programming, algorithms and software architecture.</p>
 
@@ -24,7 +24,7 @@
 <h2>💻 Tech Stack</h2>
 
 <h3>🎮 Game Development</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
@@ -33,7 +33,7 @@
 </p>
 
 <h3>⚙️ Backend</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
@@ -41,7 +41,7 @@
 </p>
 
 <h3>🧠 Fundamentals</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/OOP-darkgray?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/Algorithms-darkgray?style=for-the-badge" alt="Algorithms" />
   <img src="https://img.shields.io/badge/Data%20Structures-darkgray?style=for-the-badge" alt="Data Structures" />
@@ -50,7 +50,7 @@
 </p>
 
 <h3>🛠️ Tools</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
